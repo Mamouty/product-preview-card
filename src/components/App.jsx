@@ -1,10 +1,11 @@
+import PreviewProduct from "./PreviewProduct";
 
 
 
 function App() {
   return (
     <>
-
+      <PreviewProduct />
     </>
   );
 }
