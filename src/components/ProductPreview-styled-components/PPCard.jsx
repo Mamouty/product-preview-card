@@ -11,12 +11,18 @@ const Card = styled.div`
         overflow: hidden;
         display: grid;
         grid-template-columns: 50% 50%;
-        grid-template-areas: "image content";
+        grid-template-rows: 60% auto;
+        grid-template-areas: 
+            "image content"
+            "image price"
+        ;
 
         img {
             width: 300px;
             grid-area: image;
         }
+
+        
 `;
 
 function PPCard() {

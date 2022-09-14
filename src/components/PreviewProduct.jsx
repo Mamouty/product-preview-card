@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import PPCard from "./PreviewProduct-styled-components/PPCard";
+import PPCard from "./ProductPreview-styled-components/PPCard";
 
 
 const Main = styled.main`
