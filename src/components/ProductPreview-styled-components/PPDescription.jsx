@@ -11,6 +11,7 @@ const Desc = styled.div`
 
     h1 {
         line-height: 1;
+        color: hsl(212, 21%, 14%);
     }
 `;
 

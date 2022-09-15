@@ -21,7 +21,6 @@ const Card = styled.div`
         width: 300px;
     }
 
-
     @media (max-width: 700px) {
       width: 360px;
       height: 670px;
