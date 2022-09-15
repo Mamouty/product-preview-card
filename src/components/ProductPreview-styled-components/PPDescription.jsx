@@ -6,6 +6,11 @@ const Desc = styled.div`
 
     p {
         font-size: 0.9rem;
+        line-height: 1.6;
+    }
+
+    h1 {
+        line-height: 1;
     }
 `;
 

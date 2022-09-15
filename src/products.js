@@ -1,6 +1,7 @@
 const products = {
     id: 1,
-    imageSrc: process.env.PUBLIC_URL + "/images/image-product-desktop.jpg",
+    imageDeskSrc: process.env.PUBLIC_URL + "/images/image-product-desktop.jpg",
+    imageMobSrc: process.env.PUBLIC_URL + "/images/image-product-mobile.jpg",
     imageAlt: "Perfume bottle",
     type: "PERFUME",
     title: "Gabrielle Essence Eau De Parfum",
